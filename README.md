@@ -1,1 +1,1 @@
-# odin-recipes
+YO YO welcome to my first odin project!
